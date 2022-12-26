@@ -6,6 +6,8 @@ import 'package:myproject/Screens/listview.dart';
 import 'package:myproject/Screens/row.dart';
 import 'package:myproject/Screens/textScreen.dart';
 
+import 'Screens/Toast.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -21,7 +23,7 @@ class _MainState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Gridview(),
+      home: Toast(),
     );
   }
 }

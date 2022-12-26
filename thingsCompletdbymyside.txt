@@ -1,0 +1,12 @@
+• Project creation in Flutter - run project in read device and emulator - hot reloading app
+• Text, elevated button => Complete
+• Flutter Architecture =>Complete
+• Working with Row and Column Widgets =>Complete
+• Flutter widgets, Flutter layout
+• State ful Widgets
+• Stateless Widgets
+• Material App  =>Complete
+• Scaffold , contain  =>Complete
+• Properties of container widgets
+• Stateless widgets - row and column widgets
+• Working with text and button ontap and onpress event =>Complete

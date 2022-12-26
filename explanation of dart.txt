@@ -1,0 +1,33 @@
+Controlers
+
+or 
+
+Control statements
+
+there are three types of controllers 
+
+1).conditional statement
+2).looping statement
+3).jumping statement
+
+1) Conditional Statement :
+
+			if statement
+
+			Syntax:
+
+
+		if (condition)
+			{
+			true statement;
+			}
+
+			If ....Else Statement
+
+			if(conditon)
+			{
+				Statement
+			}
+			else{
+				Statement
+			         }		
