@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   @override
@@ -42,8 +44,10 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Cafe_ordering_system'),
+        // backgroundColor: Colors.yellow,
       ),
-      body: Center(
+      body: Container(
+        // color: Colors.yellow[50],
         child: Padding(
           padding: const EdgeInsets.all(15),
           child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
@@ -52,7 +56,7 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
               style: TextStyle(
                   fontSize: 36,
                   fontWeight: FontWeight.w400,
-                  color: Colors.lightBlue),
+                  color: Colors.green),
             ),
             SizedBox(
               height: 50,
@@ -73,8 +77,11 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
                   },
                 ),
                 Text(
-                  'pizza @ rs.200',
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+                  'Pizza @ rs.200',
+                  style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.red),
                 )
               ],
             ),
@@ -94,8 +101,11 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
                   },
                 ),
                 Text(
-                  'Burger @ rs.100',
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+                  'Ham-Burger @ rs.100',
+                  style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.red),
                 )
               ],
             ),
@@ -116,7 +126,10 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
                 ),
                 Text(
                   'Coffe @ rs.70',
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+                  style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.red),
                 )
               ],
             ),
@@ -136,8 +149,11 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
                   },
                 ),
                 Text(
-                  'cake @ rs.300',
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+                  'Pasta @ rs.300',
+                  style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.red),
                 )
               ],
             ),
@@ -157,8 +173,11 @@ class _cafe_ordering_systemState extends State<cafe_ordering_system> {
                   },
                 ),
                 Text(
-                  'Ice-cream @ rs.150',
-                  style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+                  'Cold Coffe @ rs.250',
+                  style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                      color: Colors.red),
                 ),
               ],
             ),
