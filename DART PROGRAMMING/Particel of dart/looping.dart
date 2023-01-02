@@ -27,7 +27,7 @@ void main() {
   for (int i = 1; i <= 5; i++) {
     print("Enter a number");
     num = int.parse(stdin.readLineSync()!);
-    sum = num;
+    sum += num;
   }
   print("Ans = $sum");
 }

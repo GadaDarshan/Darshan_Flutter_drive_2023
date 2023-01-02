@@ -3,6 +3,7 @@ import 'package:myproject/Screens/Column.dart';
 import 'package:myproject/Screens/elevatedbutton.dart';
 import 'package:myproject/Screens/gridview.dart';
 import 'package:myproject/Screens/listview.dart';
+import 'package:myproject/Screens/login.dart';
 import 'package:myproject/Screens/row.dart';
 import 'package:myproject/Screens/textScreen.dart';
 
@@ -23,7 +24,8 @@ class _MainState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Toast(),
+      debugShowCheckedModeBanner: false,
+      home: Login(),
     );
   }
 }
