@@ -1,0 +1,19 @@
+oops :object oriented programming system
+
+Class : Class is a collection of data member and member function in a single location.
+        Class which is contain dis-similar data elements and member function at single entry
+
+object : object is an instance or variable of class using of object we can acess properties of class
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Task - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+1).book_name
+2).book_Author
+3).book_publication
+4).book_price
+5).book_pages
+
+
+->encapsulation 
+wrap of data
+    which is contain data member and member function in a single entity
+    e.g. class

@@ -1,0 +1,37 @@
+types of inheritance 
+there are mainly 4 types of inheritance
+
+1) single level inheritance:
+                one class derived properties of another class its called single level inheritance
+                    a
+                    |
+                    v
+                    B
+2)Multi level inheritance :
+
+        A                       B
+        |                        |
+        --------------------------
+                    |
+                    C
+
+    there are 2 parents and 1 child in Multiple  inheritance that's why dart doesn't support this
+
+    why dart doesn't support Multiple inheritance :
+
+    in Multiple there are two parents and 1 child so, in techincally there are posibilites
+    of abmubiguties (Confusion)
+
+4) hierarchil inheritance
+                A
+        b             C
+
+5) hybrid inheritance (dart doesn't support this)
+                a
+                |
+    -------------------------
+    |                       |
+    b                       C
+    --------------------------
+                |
+                D

@@ -1,0 +1,8 @@
+listview is a scrollable widget which is contain multiple eements (items) at single location
+
+there are different types of listview widget
+
+->listview
+->listview.builder
+->listview.separated
+->listview.custom
