@@ -117,7 +117,7 @@ import 'dart:io';
 //   print(d);
 // }
 
-import 'dart:io';
+// import 'dart:io';
 
 //Logical Operaters
 /*
@@ -156,3 +156,25 @@ import 'dart:io';
 //   }
 // }
 
+// void main() {
+//   var name = "Darshan";
+//   switch (name) {
+//     case "Darshan":
+//       print("Right1");
+//       break;
+//     default:
+//       print("Right2");
+//   }
+// }
+
+class Student {
+  String name = "Darshan";
+  void display() {
+    print(name);
+  }
+}
+
+void main() {
+  var obj = Student();
+  obj.display();
+}
