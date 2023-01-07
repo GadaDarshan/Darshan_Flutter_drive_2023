@@ -141,16 +141,18 @@ import 'dart:io';
 //   }
 // }
 
-void main() {
-  var i;
-  print("Enter the value of i");
-  i = int.parse(stdin.readLineSync()!);
-  while (i <= 100) {
-    if (i % 5 == 0) {
-      print("The first multiple of 5  between 1 and 10 is : ${i}");
-      break;
-      //exit the loop if the first multiple is found
-    }
-    i++;
-  }
-}
+// void main() {
+//   var num;
+//   for (int i = 1; i <= 5; i++) {
+//     print("Enter the value of num");
+//     num = int.parse(stdin.readLineSync()!);
+//     if (num % 2 == 0) {
+//       print("This is an even number");
+//       // break;
+//       continue;
+//     } else {
+//       print("This is an odd number");
+//     }
+//   }
+// }
+
