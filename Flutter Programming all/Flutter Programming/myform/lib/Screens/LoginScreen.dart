@@ -29,6 +29,21 @@ class _LoginScreenState extends State<LoginScreen> {
         appBar: AppBar(
           title: Text("Form field with validasions"),
         ),
-        body: SingleChildScrollView());
+        body: SingleChildScrollView(
+          child: Form(
+              // autovalidateMode: true,
+              autovalidateMode: AutovalidateMode.onUserInteraction,
+              key: formKey,
+              child: Column(
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.only(top: 60.0),
+                    child: Center(
+                      child: Container(),
+                    ),
+                  )
+                ],
+              )),
+        ));
   }
 }
