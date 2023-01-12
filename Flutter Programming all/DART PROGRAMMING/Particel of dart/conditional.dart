@@ -167,14 +167,27 @@ import 'dart:io';
 //   }
 // }
 
+// class Student {
+//   String name = "Darshan";
+//   void display() {
+//     print(name);
+//   }
+// }
+
+// void main() {
+//   var obj = Student();
+//   obj.display();
+// }
+
 class Student {
-  String name = "Darshan";
-  void display() {
-    print(name);
+  void output() {
+    print("This is parentr calss and extends to child class");
   }
 }
 
+class Faculty extends Student {}
+
 void main() {
   var obj = Student();
-  obj.display();
+  obj.output();
 }
