@@ -1,26 +1,24 @@
 //@dart=2.9
 
+import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:http/http.dart' as http;
-
 import 'Add.dart';
 
 class Myform extends StatefulWidget {
   // const Myform({super.key});
-    Future<List>getdata() async
-    {
-        final response = await http.get(Uri.parse("https://database20810.000webhostapp.com/FlutterCrude/view.php")   );
-    }
-
-
 
   @override
   State<Myform> createState() => _MyformState();
 }
 
 class _MyformState extends State<Myform> {
+  Future<List> getdata() async {
+    final response = await http.get(Uri.parse(
+        "https://database20810.000webhostapp.com/FlutterCrude/view.php"));
+    return jsonDecode(response.body);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -52,11 +50,16 @@ class _MyformState extends State<Myform> {
       ),
     );
   }
+}
 
- 
+/*
+
+------------------------------------------------------------second class
+
+*/
 class Items extends StatelessWidget {
+  // const Items({ Key? key }) : super(key: key);
   List list;
-
   Items({this.list});
 
   @override
@@ -66,8 +69,7 @@ class Items extends StatelessWidget {
         itemBuilder: (ctx, i) {
           return ListTile(
             title: Text(list[i]["name"]),
-            subtitle: Text(list[i]["surname"]),
-            trailing: Text(list[i]["email"]),
+            subtitle: Text(list[i]["email"]),
           );
         });
   }
