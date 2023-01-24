@@ -1,0 +1,11 @@
+polymorphism : poly means many and morphism forms
+                one named  methode has different different forms its called polymorphism
+
+
+                there are two types of polymorphism
+                1)method overloading
+                2)method overriding
+
+            1)method overloading
+            one class contain same name methode with different argumnets its called method overloading
+            but in dart method overloading is not supported.

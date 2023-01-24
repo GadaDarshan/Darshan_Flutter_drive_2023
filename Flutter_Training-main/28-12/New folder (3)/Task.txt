@@ -1,0 +1,71 @@
+Onpress
+gesturedetector
+
+list
+Ontap
+
+grid
+OnTap
+
+Widgets
+Gesture->OnTap
+
+Button->Onpress
+
+
+AlertDialog:
+
+Basic AlertDialog
+Confirmation AlertDialog -> Yes,No,Cancel
+Select AlertDialog
+TextField AlertDialog
+
+
+
+Text->Cafe Ordering System
+
+Checkbox
+Pizza @ rs.100
+Burger @ rs.70
+Coffee @rs.120
+
+Submit->Button
+
+Total:170
+
+RadioButton
+
+
+
+Male
+Female
+
+Console
+
+
+
+
+int amount=0;
+
+if(chk1.ischecked())
+{
+	amount+=100
+		
+}
+if()
+{
+	amount+=70
+}
+if()
+{
+	amount+=120
+}
+
+
+
+
+
+
+
+
+
