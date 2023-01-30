@@ -1,0 +1,88 @@
+operators : to perform any operations we need to use some specific symbols at that time its 
+called operator 
+
+10 + 20 
+
+here,  + is an operator 
+
+10 and 20 are operand 
+
+1) Arithmetic operator 
+2) Assignment operator 
+3) conditional operator 
+4) logical operator 
+5) relational operator 
+6) unary operator 
+7) bitwise operator 
+8) special operator 
+
+
+
+
+1) Arithmetic operator : to perform any arithmetic operations using these operator 
+
+	+   -    *    /    %   
+
+	a + b 
+
+
+2) Assignment operator : 
+
+	to assign something 
+
+	= 
+
+	a = 10 
+
+ shorthand operator : 
+
+	combination of arithmetic and assignment operator 
+
+	+=   -=  *=  /= %= 
+
+	a = a + b 
+
+	a+=b 
+
+3) conditional operator (ternary operator) : 
+
+	?: 
+
+syntax :   exp1 ?  exp2  : exp3
+
+4) relational operator : there are 6 relational operator 
+
+	>     <   >=  <=  ==  != 
+
+5) logical operator : 
+
+	&&   (And operator) 
+
+	||  (or operator) 
+
+	!  (not operator) 
+
+
+6) increment - decrement 
+
+	a++     (post increment) 
+	a--     (post decrement) 
+
+	++a  (pre increment) 
+	--a (pre decrement) 
+
+7) bitwise operator 
+
+8) special operator : 
+
+	sizeof
+
+	comma 
+
+
+
+
+
+
+
+                 

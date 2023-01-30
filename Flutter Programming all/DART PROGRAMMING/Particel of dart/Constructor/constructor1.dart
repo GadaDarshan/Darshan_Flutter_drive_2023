@@ -1,5 +1,6 @@
 /*
-counstor is a special member function which is invoke when we create object of class which is same as class name
+counstor is a special member function which is invoke when we create object of
+ class which is same as class name
 
 syntax:  
 
