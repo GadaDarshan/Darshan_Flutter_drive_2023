@@ -1,0 +1,38 @@
+class : class is a collection of object.
+
+>> class is a collection of data member(variable) and member function(process , method) with its behavier.
+
+there are 3 types of the properties:
+1. private
+2. protected 
+3. public
+
+
+2. object : object is instance of a class.
+>> create a memory for a class.
+>> obejct access all the properties of the class (except private)
+
+
+3. encapsulation : data hidding : wrapping up of data into single unit.
+ EX : capsule , mobile
+
+4. inheritance : 
+
+>> properties of parents class derived into child class.
+>> properties of super class extend into sub class.
+
+types of the inheritance :
+	1. single inheritance
+	2. muilti level inheritance
+	3. multiple inheritance
+	4. hirarchical inheritance
+	5. Hybrid inheritance
+
+
+5. polymorphism:  ability to take one name having different form.
+two types of the polymorphism
+	1. overloding
+	2. overriding
+
+6. Abstraction : data hiding : essentional part should be show and rest part will be hidden.
+	Ex : book index
