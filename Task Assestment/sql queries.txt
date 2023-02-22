@@ -1,0 +1,13 @@
+
+
+1).   select * from tablename order by firstname.
+2).   select * from tablename order by column 
+3).   select * from table name where firstname like 'j%'
+4).   select * from tablename where deagtion = "cleark"
+5).   delete from tablename where deagtion =" hr ""hr"
+6).   select * from tablename where depton=40
+7).   select max(salary) from tablename 
+8).   select min(salary) from tablename
+9).   select sum(salary ) from tablename
+10). select max(salary) from tablename where salary lessthan (select max(salary)from table name)
+  
