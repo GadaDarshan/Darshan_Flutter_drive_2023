@@ -5,7 +5,7 @@ class student
         private:
                 
                         char name[20];
-                        int roll[4],total=0,per=0,sub1[4],sub2[4],sub3[4];
+                        int i,roll[4],total[4],per[4],sub1[4],sub2[4],sub3[4];
         public:
                 void input();
                 void display();
@@ -14,33 +14,39 @@ class student
 };
 void student::input()
 {
-	for(int i=1;i<6;i++)
+	for(int i=0;i<4;i++)
 	{
 	
         cout<<"Enter Roll No:";
-        cin>>roll;
+        cin>>roll[i];
         cout<<"Enter sub1:";
-        cin>>sub1;
+        cin>>sub1[i];
         cout<<"Enter sub2:";
-        cin>>sub2;
+        cin>>sub2[i];
         cout<<"Enter sub3:";
-        cin>>sub3;
+        cin>>sub3[i];
     }
 }
 void student::display()
 {	
-	
-		total=sub1[i]+sub2[i]+sub3[i];
-		per=total/3;
-        cout<<"Roll No: "<<"\t";
+	for(i=0;i<4;i++){
+		total[i]=sub1[i]+sub2[i]+sub3[i];
+		per[i]=total[i]/4;
+	}
+		cout<<"Roll No: "<<"\t";
         cout<<"Subject 1:"<<"\t";
         cout<<"Subject 2:"<<"\t";
         cout<<"Subject 3:"<<"\t";
         cout<<"Total"<<"\t";
-        cout<<"Percentage"<<"\n";
-        for(int j=1;j<6;j++)
+        cout<<"Percentage"<<"\n\n";
+        for(int i=0;i<4;i++)
         {
-        cout<<roll[i]<<"\t\t"<<sub1[i]<<"\t\t"<<sub2[i]<<"\t\t"<<sub3[i]<<"\t\t"<<total<<"\t\t"<<per;
+        cout<<roll[i]<<"\t\t";
+		cout<<sub1[i]<<"\t\t";
+		cout<<sub2[i]<<"\t\t";
+		cout<<sub3[i]<<"\t\t";
+		cout<<total[i]<<"\t\t";
+		cout<<per[i]<<"\n\n";
         }
 }
 int main()
