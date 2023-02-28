@@ -1,6 +1,6 @@
 // CPP program to print the maximum number
 // from the set of digits of a given number
-#include <bits/stdc++.h>
+#include <stdio.h>
 using namespace std;
 
 // Function to print the maximum number

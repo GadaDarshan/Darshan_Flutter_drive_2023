@@ -9,5 +9,5 @@
 7).   select max(salary) from tablename 
 8).   select min(salary) from tablename
 9).   select sum(salary ) from tablename
-10). select max(salary) from tablename where salary lessthan (select max(salary)from table name)
+10). SELECT MAX(Salary) FROM Employee WHERE Salary NOT IN (SELECT MAX(Salary) FROM Employee)
   
