@@ -1,7 +1,7 @@
 #include<stdio.h>
 int change(int *num)
 {
-	printf("Your value is : %d \n",num);
+	printf("Your value is : %d \n",hnum);
 	(*num)=(*num)+100;
 	printf("This is your value after change %d \n",*num);
 }

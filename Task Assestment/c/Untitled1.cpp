@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 main()
 {
 	int num[5],i,temp[i];
