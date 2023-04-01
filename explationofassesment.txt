@@ -1,0 +1,6 @@
+ Data Types and Variables - Data Types, Void Data Types,
+Ans) data types is like water bottle that if we fill water in bottle and we will petrol in same bottle we wont be able to use it again
+
+ Compiler and interpreter
+Ans)Compiler is compretable fast then interpreter.because is shows the error as same time .
+Interpreter is slow then compiler because when there will be an error we have to slow that error first and after that we be able to run our program.
