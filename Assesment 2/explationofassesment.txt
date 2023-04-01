@@ -4,3 +4,46 @@ Ans) data types is like water bottle that if we fill water in bottle and we will
  Compiler and interpreter
 Ans)Compiler is compretable fast then interpreter.because is shows the error as same time .
 Interpreter is slow then compiler because when there will be an error we have to slow that error first and after that we be able to run our program.
+
+   environment setup
+	Praticel Tasks
+
+ Basic Structure of C Programs
+ans . #include<stdio.h>
+	main()
+	{
+			
+	
+ Importance of C
+Ans ) C is the mother of all language why we call c as mother language beacuse 
+when we are small we start our studying from std1 we learn how to form word how to form sentence in c we will teach you like lkg and ukg we can complie program more faster then other 
+
+
+ Practical Example : 1. Write a program of scanf 2. Write a program to demonstrate escape
+sequence 3. Write a program to demonstrate comments
+
+	Practical Tasks	
+
+ Fundamentals of C
+there are basiclly  types of fundamental
+1)data type
+2) variables
+3)loops
+4)condtitional statement
+5)function 
+6)array and string
+
+ Comments
+	Comments are very useful when you are working on some project because when there are multipal user the comments became most important
+
+ Keywords
+	Keywords are the words that have some specifci meaning and when the language has been build at that time developers had set some words in libiary for 
+asseccing funcinility
+ Practical Example: 1. Write a program to print (Hello World). 2. Write a program to print the
+	Practical Tasks 
+
+sum of two numbers. 3. Write a program to exchange values of two variables using the 3rd
+
+	Practical Tasks 
+variable. 4. Write a program to convert days into years and years into days.
+	Practical Tasks 
