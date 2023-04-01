@@ -1,0 +1,29 @@
+
+ 1).  What is Internet, HTTP/HTTPS, WWW, Domain name and Top Domain name
+	Internet	Internet is like eletricity which can go any where were there  cables are avialable just like that where we have internet connection we can access any web 
+	HTTP/HTTPS It is like five star resturant and local dhaba one is secure and safe and another  is  unscure and unsafe
+	WWW is WORLD WIDE WEB it's like i am living in India and ordering iPhone from Austrial using of internet and websites 
+	Domain Name  Is like a paticular address like i am staying in jamnagar,ranjitnagar,new hudko
+this is my address so just like that a website have there own web address which we called Domain name
+	Top Domain is like specifaction of someone like darshan is staying in jamnagar this is specifaction of me just like that top domain name means that only ex gov means goverment websites,edu
+means education websites and much more
+
+ 2).  SEO, What is HTML, What is Text Editor, Web Browser, Downloading Text Editor , HTML
+	html is desing language like we are building house but we are not adding colours on it walls we are just desing any paticular structure.text editor is like we are writting it on note book and board. web browser is like medical shop we can not read description letter which doctor has given to us but a medical shop owner can directly say that this medicen is for this 
+ 3).  Structure, First Program in HTML
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	</body>
+	</html>
+ 1) HTML Introduction 2) HTML Getting Started 3) HTML Elements 4) HTML Attributes 5)
+HTML Basic Tags
+ 1)  HTML Doctypes 2) HTML Layout 3) HTML Head 4) HTML Meta 5) HTML Scripts
+ 4).  Web Programming Design web pages with HTML structure
+ 5).  Practical Examples: 1) Create any simple web page to display your name. 2) Importance of
+meta tag and Doctypes
+ 6).  Tags and self Closing Tags, Basic Tag , Attribute and Events, Marquee Tag
+	this tags are like popatlal without any partner they are made for them selfess only 
+	they do not have any partner tag  with it 
