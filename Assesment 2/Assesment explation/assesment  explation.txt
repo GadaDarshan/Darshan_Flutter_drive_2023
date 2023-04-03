@@ -9,6 +9,13 @@ this is my address so just like that a website have there own web address which 
 means education websites and much more
 
  2).  SEO, What is HTML, What is Text Editor, Web Browser, Downloading Text Editor , HTML
+
+	SEO means Search engine optimization its simple meaning is to imporving your website visiablility on internet just like if our name is unique everyone know was better like if someones name is Khushi everyone knows her because the name is unique 
+just like that seo works.There are basically types of SEO 
+ 1)on page seo
+ 2) off page seo
+ 3)Local seo
+ 4) Techinal seo
 	html is desing language like we are building house but we are not adding colours on it walls we are just desing any paticular structure.text editor is like we are writting it on note book and board. web browser is like medical shop we can not read description letter which doctor has given to us but a medical shop owner can directly say that this medicen is for this 
  3).  Structure, First Program in HTML
 	<html>
@@ -18,6 +25,9 @@ means education websites and much more
 	<body>
 	</body>
 	</html>
+
+	Example for html structure is human body because the human body is as same as html structure as we provide head in our html structure to show header we have a head on top of our body after that we have body two hands stomach and etc just like that we provide some card list view and many more thing in our web sites like corosole and etc.
+after that we provide footer for which other thing we have and all other samll small detials as well as we walk through out our legs 
  1) HTML Introduction 2) HTML Getting Started 3) HTML Elements 4) HTML Attributes 5)
 HTML Basic Tags
  1)  HTML Doctypes 2) HTML Layout 3) HTML Head 4) HTML Meta 5) HTML Scripts
