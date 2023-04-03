@@ -27,3 +27,5 @@ meta tag and Doctypes
  6).  Tags and self Closing Tags, Basic Tag , Attribute and Events, Marquee Tag
 	this tags are like popatlal without any partner they are made for them selfess only 
 	they do not have any partner tag  with it 
+	Attribuites are like we are giveing some rules are regulation we are forming some limits to paticular tag or filed like we are following goverment rules and regulations
+7)

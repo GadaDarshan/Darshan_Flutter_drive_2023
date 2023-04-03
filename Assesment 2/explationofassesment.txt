@@ -2,8 +2,8 @@
 Ans) data types is like water bottle that if we fill water in bottle and we will petrol in same bottle we wont be able to use it again
 
  Compiler and interpreter
-Ans)Compiler is compretable fast then interpreter.because is shows the error as same time .
-Interpreter is slow then compiler because when there will be an error we have to slow that error first and after that we be able to run our program.
+Ans)Compiler is compretable fast then interpreter.because is shows the error as same time .Compiler is special program that converts programming language into binnery code.The program is written in high level language which human can understand.such as c++,java and etc.
+Interpreter is slow then compiler because when there will be an error we have to slow that error first and after that we be able to run our program.An interpreter is a program that directly execute the hight level of programming language without converting it in to machinel code.
 
    environment setup
 	Praticel Tasks
@@ -18,6 +18,7 @@ ans . #include<stdio.h>
 Ans ) C is the mother of all language why we call c as mother language beacuse 
 when we are small we start our studying from std1 we learn how to form word how to form sentence in c we will teach you like lkg and ukg we can complie program more faster then other 
 
+modifers it indecates hiw much of memory has been consumed by vairable of allocated space to vairable 
 
  Practical Example : 1. Write a program of scanf 2. Write a program to demonstrate escape
 sequence 3. Write a program to demonstrate comments
@@ -47,3 +48,9 @@ sum of two numbers. 3. Write a program to exchange values of two variables using
 	Practical Tasks 
 variable. 4. Write a program to convert days into years and years into days.
 	Practical Tasks 
+
+
+keywords are like when you want something like shoes and when we search on google like mens shoes or like that this is know as key words
+
+
+Comments are like when we are highlighting some thing that on this road the max speed limit is 80 that all are know as comments
