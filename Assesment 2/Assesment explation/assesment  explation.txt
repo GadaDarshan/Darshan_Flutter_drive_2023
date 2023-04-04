@@ -10,7 +10,9 @@ means education websites and much more
 
  2).  SEO, What is HTML, What is Text Editor, Web Browser, Downloading Text Editor , HTML
 
-	SEO means Search engine optimization its simple meaning is to imporving your website visiablility on internet just like if our name is unique everyone know was better like if someones name is Khushi everyone knows her because the name is unique 
+	Example : if i have hosted a web site perfectly but what if i want to show it at the top of search engine we use seo for that purpose just like if we just time amz then the google will give us the addres of amazon.com online e commerce web site so seo is just like this 
+		
+SEO means Search engine optimization its simple meaning is to imporving your website visiablility on internet just like if our name is unique everyone know was better like if someones name is Khushi everyone knows her because the name is unique 
 just like that seo works.There are basically types of SEO 
  1)on page seo
  2) off page seo
@@ -36,6 +38,8 @@ HTML Basic Tags
 meta tag and Doctypes
  6).  Tags and self Closing Tags, Basic Tag , Attribute and Events, Marquee Tag
 	this tags are like popatlal without any partner they are made for them selfess only 
+	marquee tag is used to move images up or down or right to left 
+just like our hands we can move our hands up or down or right or left just when we open our carrer center we can see that the pictures which we have inserted they are scrolling up to down just like that in amazon when we see amzon online ecommerce website we can see that images are scrolling from right to left 
 	they do not have any partner tag  with it 
 	Attribuites are like we are giveing some rules are regulation we are forming some limits to paticular tag or filed like we are following goverment rules and regulations
 7)
